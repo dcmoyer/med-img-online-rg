@@ -12,13 +12,19 @@ Rated 10/10, 5 stars, Weak Accept (Poster).
 
 ### Topic: INRs
 
-2022-03-7: Implicit Neural Representations for Deformable Image Registration  
-Wolterink, Zwienenberg, Brune
-[[openreview](https://openreview.net/forum?id=BP29eKzQBu3)]
+20222-03-14: Instant NGP  
+Muller, Evans, Schied, Keller
+[[pdf](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)]
+[[website](https://nvlabs.github.io/instant-ngp/)]
+
 
 ## Previous Topics and Papers
 
 ### Topic: INRs
+
+2022-03-7: Implicit Neural Representations for Deformable Image Registration  
+Wolterink, Zwienenberg, Brune
+[[openreview](https://openreview.net/forum?id=BP29eKzQBu3)]
 
 2022-02-14: Implicit Neural Representations with Periodic Activation Functions  
 Sitzmann et al. [[arxiv](arxiv.org/abs/2006.09661)]  
