@@ -12,15 +12,28 @@ Rated 10/10, 5 stars, Weak Accept (Poster).
 
 ### Topic: INRs
 
-20222-03-14: Instant NGP  
-Muller, Evans, Schied, Keller
-[[pdf](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)]
-[[website](https://nvlabs.github.io/instant-ngp/)]
-
+2022-04-11:
+Contrastive learning of global and local features for medical image segmentation with limited annotations  
+Chaitanya, Erdil, Karani, Konukoglu
+[[arxiv](https://arxiv.org/abs/2006.10511)]
 
 ## Previous Topics and Papers
 
 ### Topic: INRs
+
+2022-04-04: (double header)  
+Deep Metric Learning: a (Long) Survey  
+Chan Kha Vu
+[[blog](https://hav4ik.github.io/articles/deep-metric-learning-survey)]  
+
+Revisiting Training Strategies and Generalization Performance in Deep Metric Learning  
+Roth, Milbich, Sinha, Gupta, Ommer, Cohen
+[[arxiv](https://arxiv.org/abs/2002.08473)]
+
+2022-03-14: Instant NGP  
+Muller, Evans, Schied, Keller
+[[pdf](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf)]
+[[website](https://nvlabs.github.io/instant-ngp/)]
 
 2022-03-7: Implicit Neural Representations for Deformable Image Registration  
 Wolterink, Zwienenberg, Brune
