@@ -10,7 +10,7 @@ Rated 10/10, 5 stars, Weak Accept (Poster).
 
 ## Current Topic and Paper
 
-### Topic: INRs
+### Topic: Deep Metric Learning
 
 2022-04-11:
 Contrastive learning of global and local features for medical image segmentation with limited annotations  
@@ -19,7 +19,7 @@ Chaitanya, Erdil, Karani, Konukoglu
 
 ## Previous Topics and Papers
 
-### Topic: INRs
+### Topic: Deep Metric Learning
 
 2022-04-04: (double header)  
 Deep Metric Learning: a (Long) Survey  
@@ -29,6 +29,8 @@ Chan Kha Vu
 Revisiting Training Strategies and Generalization Performance in Deep Metric Learning  
 Roth, Milbich, Sinha, Gupta, Ommer, Cohen
 [[arxiv](https://arxiv.org/abs/2002.08473)]
+
+### Topic: INRs
 
 2022-03-14: Instant NGP  
 Muller, Evans, Schied, Keller
