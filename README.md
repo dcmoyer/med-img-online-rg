@@ -10,16 +10,24 @@ Rated 10/10, 5 stars, Weak Accept (Poster).
 
 ## Current Topic and Paper
 
-### Topic: Deep Metric Learning
+### Topic: ad hoc
 
-2022-04-11:
-Contrastive learning of global and local features for medical image segmentation with limited annotations  
-Chaitanya, Erdil, Karani, Konukoglu
-[[arxiv](https://arxiv.org/abs/2006.10511)]
+2022-05-02:
+MELBA Symposium Prep  
+[[html](https://www.melba-journal.org/blog/006-first-melba-symposium.html)]
 
 ## Previous Topics and Papers
 
 ### Topic: Deep Metric Learning
+
+2022-04-23:
+Contrastive learning of global and local features for medical image segmentation with limited annotations
+[[arxiv](https://arxiv.org/abs/2006.10511)]
+
+2022-04-11:
+Contrastive learning of global and local features for medical image segmentation with limited annotations  
+Chaitanya, Erdil, Karani, Konukoglu
+[[arxiv](https://arxiv.org/abs/2006.10511)]  
 
 2022-04-04: (double header)  
 Deep Metric Learning: a (Long) Survey  
